@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi! 
+I'm Grzegorz but you can call me Greg.
 
 <!--
 **icek/icek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
